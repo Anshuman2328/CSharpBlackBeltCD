@@ -1,0 +1,11 @@
+C:\Users\Anshuman\Desktop\beltcsharp\third\dojo_activity_center\bin\Debug\netcoreapp2.0\dojo_activity_center.deps.json
+C:\Users\Anshuman\Desktop\beltcsharp\third\dojo_activity_center\bin\Debug\netcoreapp2.0\dojo_activity_center.runtimeconfig.json
+C:\Users\Anshuman\Desktop\beltcsharp\third\dojo_activity_center\bin\Debug\netcoreapp2.0\dojo_activity_center.runtimeconfig.dev.json
+C:\Users\Anshuman\Desktop\beltcsharp\third\dojo_activity_center\bin\Debug\netcoreapp2.0\dojo_activity_center.dll
+C:\Users\Anshuman\Desktop\beltcsharp\third\dojo_activity_center\bin\Debug\netcoreapp2.0\dojo_activity_center.pdb
+C:\Users\Anshuman\Desktop\beltcsharp\third\dojo_activity_center\obj\Debug\netcoreapp2.0\dojo_activity_center.csproj.CoreCompileInputs.cache
+C:\Users\Anshuman\Desktop\beltcsharp\third\dojo_activity_center\obj\Debug\netcoreapp2.0\dojo_activity_center.AssemblyInfoInputs.cache
+C:\Users\Anshuman\Desktop\beltcsharp\third\dojo_activity_center\obj\Debug\netcoreapp2.0\dojo_activity_center.AssemblyInfo.cs
+C:\Users\Anshuman\Desktop\beltcsharp\third\dojo_activity_center\obj\Debug\netcoreapp2.0\dojo_activity_center.dll
+C:\Users\Anshuman\Desktop\beltcsharp\third\dojo_activity_center\obj\Debug\netcoreapp2.0\dojo_activity_center.pdb
+C:\Users\Anshuman\Desktop\beltcsharp\third\dojo_activity_center\obj\Debug\netcoreapp2.0\dojo_activity_center.csprojAssemblyReference.cache
